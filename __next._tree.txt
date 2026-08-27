@@ -1,0 +1,5 @@
+:HL["/_next/static/css/cbb4203200f6b57e.css","style"]
+:HL["/lohnknechte-logo.png","image"]
+:HL["/fightlab-hero.png","image"]
+:HL["/fightlab-loadout.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_ZOrCsfKynXiyDtwW0wvU"}
